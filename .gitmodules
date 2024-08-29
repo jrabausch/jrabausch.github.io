@@ -1,0 +1,3 @@
+[submodule "squircle"]
+	path = squircle
+	url = https://github.com/jrabausch/squircle
